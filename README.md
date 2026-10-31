@@ -26,3 +26,7 @@ TMCraft 기술머신을 같은 기술의 알 기술 아이템으로 1:1 교환�
 ```
 
 `build/libs/` 에 만들어진 jar 파일을 서버의 `mods` 폴더에 넣습니다.
+
+## 라이선스
+
+MIT License. 출처(minerapai)만 밝히면 누구나 자유롭게 쓰고 고치고 배포할 수 있습니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 보세요.
